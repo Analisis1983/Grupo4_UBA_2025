@@ -1,0 +1,3 @@
+Este es un archivo de prueba para verificar la conexión con GitHub.
+Autor: Ángel Enrique Zapata Barros
+Fecha: 04/10/2025
